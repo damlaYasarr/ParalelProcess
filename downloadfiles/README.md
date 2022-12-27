@@ -1,0 +1,4 @@
+- here trying download files as a parallel
+- firstly indicating the file path 
+- download function is a simple python file downloading code.
+- the main process is URLs are array and connected with a multiprocess pool.
