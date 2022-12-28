@@ -2,4 +2,4 @@
 
 
 
-trying all process with making parallel programming
+trying all process by using parallel programming
