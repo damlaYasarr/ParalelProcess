@@ -1,0 +1,1 @@
+- here is scanner structure to learn how to work multiprocessing with scanner 
